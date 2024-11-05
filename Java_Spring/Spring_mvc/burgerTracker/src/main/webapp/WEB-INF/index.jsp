@@ -26,6 +26,9 @@
                 <td>${burger.name}</td>
                 <td>${burger.restaurant}</td>
                 <td>${burger.rating}</td>
+                 <td>
+                <a href="/burgers/edit/${burger.id}">Edit</a>
+            	</td>
             </tr>
         </c:forEach>
     </tbody>
