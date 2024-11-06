@@ -1,10 +1,11 @@
 @charset "UTF-8";
 body {
-    background-image:url('https://www.shutterstock.com/image-photo/burger-tomateoes-lettuce-pickles-on-600nw-2309539129.jpg');
+    background-image:url('https://i.pinimg.com/736x/84/70/94/847094a5d2df67f4fc7a7a6b77bcfe7b.jpg');
     background-size: cover;
     background-position:center;
     margin: 0;
     padding: 20px;
+    height: 100vh;
 }
 
 .container {

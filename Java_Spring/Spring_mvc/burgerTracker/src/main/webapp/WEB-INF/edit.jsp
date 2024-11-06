@@ -33,6 +33,7 @@
             <form:textarea path="notes" class="form-input"/>
         </div>
         <input type="submit" value="Update Burger" class="submit-button"/>
+        <a href="/burgers" class="button">cancel</a>
     </form:form>
     </div>
 </body>
